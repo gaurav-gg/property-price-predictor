@@ -1,0 +1,746 @@
+[
+{
+"soid":"77zp5",
+"dist":"    0.1",
+"name":"Dominos",
+"lon":"72.86322",
+"lat":"19.11377",
+"supp":"Pizza",
+"type":"30"
+},
+{
+"soid":"64wnf",
+"dist":"    0.1",
+"name":"Maru Stores",
+"lon":"72.86219",
+"lat":"19.11308",
+"type":"132"
+},
+{
+"soid":"64wn4",
+"dist":"    0.1",
+"name":"Enrich Salon",
+"lon":"72.86198",
+"lat":"19.11300",
+"type":"142"
+},
+{
+"soid":"40sgi",
+"dist":"    0.2",
+"name":"Sangam Big Cinema",
+"lon":"72.86472",
+"lat":"19.11216",
+"type":"59"
+},
+{
+"soid":"8k6h",
+"dist":"    0.3",
+"name":"Chakala",
+"lon":"72.86181",
+"lat":"19.11529",
+"supp":"Suburb",
+"type":"240"
+},
+{
+"soid":"4p9oq",
+"dist":"    0.3",
+"name":"Dragonfly",
+"lon":"72.86304",
+"lat":"19.11094",
+"type":"2"
+},
+{
+"soid":"immcj",
+"dist":"    0.3",
+"name":"OneAssist",
+"lon":"72.86622",
+"lat":"19.11271",
+"type":"159"
+},
+{
+"soid":"e5j9l",
+"dist":"    0.4",
+"name":"Gurdwara andheri east",
+"lon":"72.86624",
+"lat":"19.11151",
+"type":"102"
+},
+{
+"soid":"d7nv9",
+"dist":"    0.4",
+"name":"Backpacker Panda Appetite - Mumbai",
+"lon":"72.86609",
+"lat":"19.11125",
+"phone":"+91 9172313994",
+"website":"https://backpackerpanda.com",
+"type":"5"
+},
+{
+"soid":"bu7la",
+"dist":"    0.4",
+"name":"Sai Palace",
+"lon":"72.86025",
+"lat":"19.11546",
+"supp":"Regional",
+"type":"30"
+},
+{
+"soid":"2m5xm",
+"dist":"    0.4",
+"name":"HP",
+"lon":"72.85963",
+"lat":"19.11473",
+"type":"10"
+},
+{
+"soid":"d6keo",
+"dist":"    0.4",
+"name":"Anjali Homestay",
+"lon":"72.86344",
+"lat":"19.10966",
+"type":"5"
+},
+{
+"soid":"2m5xj",
+"dist":"    0.4",
+"name":"Holy Family High School",
+"lon":"72.86216",
+"lat":"19.11685",
+"type":"101"
+},
+{
+"soid":"2m5xl",
+"dist":"    0.4",
+"name":"Holy Family Church",
+"lon":"72.85971",
+"lat":"19.11524",
+"type":"102"
+},
+{
+"soid":"40sgu",
+"dist":"    0.5",
+"name":"Shri Kalgidar Mission High School",
+"lon":"72.86563",
+"lat":"19.10988",
+"type":"101"
+},
+{
+"soid":"bm7u6",
+"dist":"    0.5",
+"name":"Chakala - J.B. Nagar",
+"lon":"72.86762",
+"lat":"19.11204",
+"type":"192"
+},
+{
+"soid":"bvde8",
+"dist":"    0.5",
+"name":"Citiscape",
+"lon":"72.86800",
+"lat":"19.11295",
+"type":"240"
+},
+{
+"soid":"71xc9",
+"dist":"    0.5",
+"name":"Gopal Krishna ",
+"lon":"72.86782",
+"lat":"19.11174",
+"type":"30"
+},
+{
+"soid":"bvde9",
+"dist":"    0.5",
+"name":"Kohinoor Continental",
+"lon":"72.86807",
+"lat":"19.11240",
+"type":"2"
+},
+{
+"soid":"fr0uh",
+"dist":"    0.5",
+"name":"NH-1 kitchen &amp; bar",
+"lon":"72.85864",
+"lat":"19.11130",
+"supp":"Indian",
+"type":"30"
+},
+{
+"soid":"7albe",
+"dist":"    0.5",
+"name":"shri Ghanshamdas podhar vidyalay Rajasthani school",
+"lon":"72.86796",
+"lat":"19.11156",
+"type":"101"
+},
+{
+"soid":"8k6a",
+"dist":"    0.6",
+"name":"Samraj",
+"lon":"72.85946",
+"lat":"19.10973",
+"type":"2"
+},
+{
+"soid":"emew9",
+"dist":"    0.6",
+"name":"ICICI Bank ATM",
+"lon":"72.86473",
+"lat":"19.10827",
+"type":"117"
+},
+{
+"soid":"55ucv",
+"dist":"    0.6",
+"name":"Dr. Belani’s Blue Shield Medical Clinic",
+"lon":"72.86865",
+"lat":"19.11222",
+"type":"161"
+},
+{
+"soid":"b98es",
+"dist":"    0.6",
+"name":"Green Woods Co-Op Housing Society",
+"lon":"72.85863",
+"lat":"19.11641",
+"type":"240"
+},
+{
+"soid":"ekegx",
+"dist":"    0.6",
+"name":"Nagpal Restaurant",
+"lon":"72.86344",
+"lat":"19.10796",
+"supp":"Indian",
+"type":"30"
+},
+{
+"soid":"2mdhd",
+"dist":"    0.6",
+"lon":"72.86569",
+"lat":"19.11812",
+"type":"193"
+},
+{
+"soid":"gu1q0",
+"dist":"    0.6",
+"name":"Vinmar House",
+"lon":"72.86649",
+"lat":"19.11775",
+"type":"159"
+},
+{
+"soid":"dcvof",
+"dist":"    0.6",
+"name":"Ganesh Mandir",
+"lon":"72.86588",
+"lat":"19.10840",
+"type":"102"
+},
+{
+"soid":"bu79a",
+"dist":"    0.6",
+"name":"Hotel Oriental Aster",
+"lon":"72.86160",
+"lat":"19.10797",
+"type":"2"
+},
+{
+"soid":"8k45n",
+"dist":"    0.6",
+"name":"BEST Depot",
+"lon":"72.86600",
+"lat":"19.11844",
+"type":"241"
+},
+{
+"soid":"embbn",
+"dist":"    0.7",
+"name":"Punjab National Bank",
+"lon":"72.86394",
+"lat":"19.10742",
+"supp":"With ATM",
+"website":"https://www.pnbindia.in",
+"wiki":"http://en.wikipedia.org/wiki/Punjab National Bank",
+"type":"117"
+},
+{
+"soid":"40sgk",
+"dist":"    0.7",
+"name":"J. B. Nagar Post Office",
+"lon":"72.86914",
+"lat":"19.11110",
+"type":"103"
+},
+{
+"soid":"embbk",
+"dist":"    0.7",
+"name":"Greater Bombay Co-operative Bank",
+"lon":"72.86400",
+"lat":"19.10728",
+"supp":"With ATM",
+"type":"117"
+},
+{
+"soid":"emb32",
+"dist":"    0.7",
+"name":"Axis Bank ATM",
+"lon":"72.86119",
+"lat":"19.10751",
+"supp":"With ATM",
+"type":"117"
+},
+{
+"soid":"dcvo2",
+"dist":"    0.7",
+"name":"Greater Bombay Bank",
+"lon":"72.86409",
+"lat":"19.10726",
+"type":"117"
+},
+{
+"soid":"embb7",
+"dist":"    0.7",
+"name":"Bassein Catholic Bank",
+"lon":"72.86430",
+"lat":"19.10725",
+"supp":"With ATM",
+"type":"117"
+},
+{
+"soid":"ftxr8",
+"dist":"    0.7",
+"name":"Atithi Banquet",
+"lon":"72.86395",
+"lat":"19.10714",
+"type":"109"
+},
+{
+"soid":"dcvoe",
+"dist":"    0.7",
+"name":"Amar",
+"lon":"72.86421",
+"lat":"19.10713",
+"type":"30"
+},
+{
+"soid":"embb8",
+"dist":"    0.7",
+"name":"Canara Bank",
+"lon":"72.86394",
+"lat":"19.10706",
+"supp":"With ATM",
+"website":"http://www.canarabank.com",
+"wiki":"http://en.wikipedia.org/wiki/Canara Bank",
+"type":"117"
+},
+{
+"soid":"22ikz",
+"dist":"    0.7",
+"name":"Ratna Mahal",
+"lon":"72.85878",
+"lat":"19.10836",
+"type":"2"
+},
+{
+"soid":"8xpp9",
+"dist":"    0.7",
+"name":"MIDC Industrial Estate - Andheri",
+"lon":"72.86573",
+"lat":"19.11931",
+"type":"241"
+},
+{
+"soid":"dcvlk",
+"dist":"    0.7",
+"name":"Jain Mandir",
+"lon":"72.86801",
+"lat":"19.10859",
+"type":"102"
+},
+{
+"soid":"40sgo",
+"dist":"    0.7",
+"name":"Cafe Coffee Day",
+"lon":"72.86394",
+"lat":"19.10677",
+"supp":"Coffee",
+"type":"34"
+},
+{
+"soid":"ic343",
+"dist":"    0.8",
+"name":"Agd Biomedicals pvt Ltd",
+"lon":"72.85645",
+"lat":"19.11566",
+"website":"http://www.agdbio.com",
+"type":"159"
+},
+{
+"soid":"bm7pc",
+"dist":"    0.8",
+"name":"Western Express Highway",
+"lon":"72.85645",
+"lat":"19.11586",
+"type":"192"
+},
+{
+"soid":"emew5",
+"dist":"    0.8",
+"name":"Kiran Care Hospital / Sankalp CHS - Mistry Complex",
+"lon":"72.86559",
+"lat":"19.10677",
+"type":"160"
+},
+{
+"soid":"2m5xk",
+"dist":"    0.8",
+"name":"Guru Nanak Petrol Pump",
+"lon":"72.85635",
+"lat":"19.11614",
+"open":"24/7",
+"type":"10"
+},
+{
+"soid":"40sg6",
+"dist":"    0.8",
+"name":"HDFC Bank ATM",
+"lon":"72.86710",
+"lat":"19.10709",
+"type":"118"
+},
+{
+"soid":"349hr",
+"dist":"    0.8",
+"name":"Midc",
+"lon":"72.86464",
+"lat":"19.12051",
+"supp":"Suburb",
+"type":"240"
+},
+{
+"soid":"40sg4",
+"dist":"    0.8",
+"name":"Jankalyan Sahkari Bank Ltd",
+"lon":"72.86716",
+"lat":"19.10686",
+"type":"117"
+},
+{
+"soid":"dcvom",
+"dist":"    0.8",
+"name":"Apna Dhaba",
+"lon":"72.87090",
+"lat":"19.11133",
+"type":"30"
+},
+{
+"soid":"dcvo4",
+"dist":"    0.9",
+"name":"OM Nagar bus stop",
+"lon":"72.86652",
+"lat":"19.10634",
+"type":"193"
+},
+{
+"soid":"h1oxd",
+"dist":"    0.9",
+"name":"Apna dhaba",
+"lon":"72.87112",
+"lat":"19.11176",
+"type":"30"
+},
+{
+"soid":"40sgx",
+"dist":"    0.9",
+"name":"Bombay Cambridge High School",
+"lon":"72.86158",
+"lat":"19.10534",
+"type":"101"
+},
+{
+"soid":"4vywn",
+"dist":"    0.9",
+"name":"Gautam Nagar",
+"lon":"72.87010",
+"lat":"19.11865",
+"supp":"Shelter",
+"type":"193"
+},
+{
+"soid":"fusp3",
+"dist":"    0.9",
+"name":"Neeta bus station",
+"lon":"72.85447",
+"lat":"19.11110",
+"type":"193"
+},
+{
+"soid":"8k6b",
+"dist":"    0.9",
+"name":"Sun n Sheel",
+"lon":"72.87193",
+"lat":"19.11119",
+"type":"2"
+},
+{
+"soid":"8k6m",
+"dist":"    1.0",
+"name":"Tunga International",
+"lon":"72.87200",
+"lat":"19.11540",
+"type":"2"
+},
+{
+"soid":"783ur",
+"dist":"    1.0",
+"name":"Red Box",
+"lon":"72.87033",
+"lat":"19.11869",
+"type":"34"
+},
+{
+"soid":"bua0d",
+"dist":"    1.0",
+"name":"Muktidham Hall",
+"lon":"72.85494",
+"lat":"19.10941",
+"type":"106"
+},
+{
+"soid":"6nei0",
+"dist":"    1.0",
+"name":"SBI General Insurance Pvt. Ltd.",
+"lon":"72.85447",
+"lat":"19.11654",
+"type":"150"
+},
+{
+"soid":"1q34r",
+"dist":"    1.0",
+"name":"Andheri East",
+"lon":"72.85420",
+"lat":"19.11588",
+"supp":"Suburb",
+"type":"240"
+},
+{
+"soid":"70e9n",
+"dist":"    1.0",
+"name":"Mukund Hospital ",
+"lon":"72.87239",
+"lat":"19.11150",
+"type":"160"
+},
+{
+"soid":"f9uvp",
+"dist":"    1.0",
+"name":"Bhim Nagar",
+"lon":"72.87150",
+"lat":"19.11808",
+"type":"193"
+},
+{
+"soid":"bqcp2",
+"dist":"    1.1",
+"name":"Satyadarshan C.H.S.",
+"lon":"72.85952",
+"lat":"19.12238",
+"type":"240"
+},
+{
+"soid":"6bo1y",
+"dist":"    1.1",
+"name":"Sagar",
+"lon":"72.85341",
+"lat":"19.10947",
+"supp":"Indian",
+"type":"30"
+},
+{
+"soid":"6bo2j",
+"dist":"    1.1",
+"name":"Hotel Benarsi",
+"lon":"72.85335",
+"lat":"19.10949",
+"supp":"Indian",
+"type":"30"
+},
+{
+"soid":"5qhb2",
+"dist":"    1.1",
+"name":"Basil",
+"lon":"72.85330",
+"lat":"19.10953",
+"supp":"Italian",
+"type":"30"
+},
+{
+"soid":"70e9s",
+"dist":"    1.1",
+"name":"Gurudawara shri Guru Nanak Darbar",
+"lon":"72.87135",
+"lat":"19.10671",
+"type":"102"
+},
+{
+"soid":"3kbjx",
+"dist":"    1.1",
+"name":"Gundavali",
+"lon":"72.85560",
+"lat":"19.12053",
+"type":"193"
+},
+{
+"soid":"3h7tl",
+"dist":"    1.1",
+"name":"Jain Tripathi &amp; Co.",
+"lon":"72.85338",
+"lat":"19.11782",
+"type":"132"
+},
+{
+"soid":"2m5ud",
+"dist":"    1.1",
+"name":"HSBC",
+"lon":"72.85326",
+"lat":"19.10894",
+"type":"118"
+},
+{
+"soid":"huy5z",
+"dist":"    1.2",
+"name":"New Airport Colony",
+"lon":"72.85615",
+"lat":"19.10530",
+"type":"240"
+},
+{
+"soid":"4vywm",
+"dist":"    1.2",
+"name":"Orkay",
+"lon":"72.87062",
+"lat":"19.12140",
+"supp":"Shelter",
+"type":"193"
+},
+{
+"soid":"6vmex",
+"dist":"    1.2",
+"name":"Mitkat Advisory Services Pvt Ltd",
+"lon":"72.87089",
+"lat":"19.10504",
+"phone":"022 28391243",
+"website":"http://mitkatadvisory.com",
+"open":"MO-SA 09:30-18:00",
+"type":"41"
+},
+{
+"soid":"hj5s6",
+"dist":"    1.2",
+"name":"Taxi parking",
+"lon":"72.87243",
+"lat":"19.10659",
+"type":"23"
+},
+{
+"soid":"7plo0",
+"dist":"    1.2",
+"name":"ITC Grand Maratha",
+"lon":"72.86974",
+"lat":"19.10394",
+"type":"2"
+},
+{
+"soid":"ei10f",
+"dist":"    1.3",
+"name":"Peshawri",
+"lon":"72.86973",
+"lat":"19.10382",
+"type":"30"
+},
+{
+"soid":"hj5s7",
+"dist":"    1.3",
+"name":"Taxi parking",
+"lon":"72.87241",
+"lat":"19.10584",
+"type":"23"
+},
+{
+"soid":"7plo1",
+"dist":"    1.3",
+"lon":"72.86971",
+"lat":"19.10360",
+"type":"89"
+},
+{
+"soid":"7plo5",
+"dist":"    1.3",
+"name":"Hilton Mumbai International Airport",
+"lon":"72.87093",
+"lat":"19.10437",
+"supp":"&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;",
+"phone":"+91 22 2838 0000",
+"email":"reservations.mumbai@hilton.com",
+"website":"http://www3.hilton.com/en/hotels/india/hilton-mumbai-international-airport-BOMAPHI/index.html?WT.mc_idzELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BOMAPHI",
+"wca":"2",
+"type":"2"
+},
+{
+"soid":"4vyx6",
+"dist":"    1.4",
+"name":"C Cross Road",
+"lon":"72.87130",
+"lat":"19.12279",
+"type":"193"
+},
+{
+"soid":"1lgqj",
+"dist":"    1.4",
+"name":"Hyatt Regency",
+"lon":"72.87142",
+"lat":"19.10371",
+"type":"2"
+},
+{
+"soid":"30ro7",
+"dist":"    1.4",
+"name":"Hanuman Mandir",
+"lon":"72.85381",
+"lat":"19.10381",
+"type":"102"
+},
+{
+"soid":"8umkb",
+"dist":"    1.4",
+"lon":"72.85381",
+"lat":"19.10381",
+"type":"102"
+},
+{
+"soid":"30rp2",
+"dist":"    1.5",
+"name":"Deepak Auto",
+"lon":"72.85373",
+"lat":"19.10356",
+"supp":"Repair",
+"type":"20"
+},
+{
+"soid":"30rns",
+"dist":"    1.5",
+"name":"Bhai Ghar",
+"lon":"72.85341",
+"lat":"19.10383",
+"type":"65"
+},
+{
+"soid":"30rqf",
+"dist":"    1.5",
+"name":"Naresh Ceramics",
+"lon":"72.85365",
+"lat":"19.10356",
+"type":"132"
+}
+]
